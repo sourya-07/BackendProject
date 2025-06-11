@@ -1,0 +1,23 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourya-07/BackendProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourya-07/BackendProject/issues"
+  },
+  "homepage": "https://github.com/sourya-07/BackendProject#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
